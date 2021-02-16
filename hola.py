@@ -4,5 +4,6 @@ print('Hola Pedro')
 # inosd465465ds
 
 
-
 # pedro vega
+for i in range(5):
+    print(i)
