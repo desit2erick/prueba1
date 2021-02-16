@@ -1,3 +1,3 @@
 print('Hola Pedro')
 
-# que onda erick
+# que onda pedro
